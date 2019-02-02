@@ -16,7 +16,7 @@
   2.CSS
   3.Vagrant, Flask, SQLAlchemy
   4.VirtualBox
-  5.Google and Facebook Oauth2 & APIs.
+  5.Google or Facebook Oauth2 & APIs.
 
 ##To run this project:
 
@@ -24,7 +24,7 @@
    vagrant up
    vagrant ssh
     
-2. run database.py to create the database
+2. run database_setup.py to create the database
 
 
 3. run students.py to populate the database
